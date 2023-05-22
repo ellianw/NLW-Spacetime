@@ -2,7 +2,9 @@
 
 Projeto de uma capsula do tempo desenvolvido durante a Next Level Week Spacetime da RocketSeat.
 
-![Preview do projeto](.github/Thumbnail.png)
+<p align="center">
+  <img src=".github/preview.png" alt="Demonstração do projeto" width="100%" />
+</p>
 
 ## Tecnologias
 
